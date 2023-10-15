@@ -14,4 +14,4 @@ Please see below a screenshot from the game itself:
 
 
 
-Give it a try:
+[Give it a try!](https://replit.com/@spanov/RockPaperScissorsGraphic#main.py)
